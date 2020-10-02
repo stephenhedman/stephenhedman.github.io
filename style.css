@@ -1,0 +1,19 @@
+
+p{
+
+}
+a:link{color: blue;}
+a:visited{color: blueviolet;}
+a:hover{background-color: gray;}
+a:focus{color:black;}
+a:active{color: green;}
+#navigation{
+    float: left;
+    width: 100px;
+    height: 90%;
+    background-color: rgb(230, 230, 230);
+}
+#content{
+    float: left;
+    width: 900px;
+}
